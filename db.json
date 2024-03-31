@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "id": 2,
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 3,
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "id": 4,
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter"
+  },
+  {
+    "id": 5,
+    "question": "What is the tallest mammal?",
+    "answer": "Giraffe"
+  }
+]
